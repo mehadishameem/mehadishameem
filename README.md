@@ -35,17 +35,7 @@
 
 > **Professional Practices:** Product Thinking • Client-Server Architecture • API & Database Design • Application Security • AI-Assisted Workflows
 
----
 
-## 🚀 Featured Projects & Research
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Jatra Bus Tracking System**](https://github.com/mehadishameem/jatra-bus-tracking-system) | Real-time university bus & fleet tracking application with an administrative web dashboard for East West University transport management. Accompanied by a 100-page engineering report. | `Java`, `Android`, `Firebase`, `Leaflet.js` |
-| [**E-Waste Pathways in Bangladesh**](https://github.com/mehadishameem/From-Household-StoragetoScrapSorting) | Qualitative empirical research study investigating informal electronics recycling, data-privacy trust deficits, and hazardous leakage points in urban Dhaka. | `Green Computing`, `Field Research`, `ACM Draft` |
-| [**SmartHome IoT Dashboard**](https://github.com/mehadishameem/smarthome) | IoT telemetry and energy management interface for Tuya smart plugs featuring a simulated 10-floor, 40-room building power distribution view. | `Node.js`, `Flask`, `Python`, `HTML/JS` |
-| [**AttendanceCloud**](https://github.com/mehadishameem/AttendanceCloud) | Academic mobile application engineered for automated classroom attendance tracking for East West University (CSE489). | `Android Studio`, `Java`, `XML` |
-| [**Community Management Portal**](https://github.com/mehadishameem/Community-Management-System-) | Web-based subscription tracking and financial transparency portal for the Yousuf Ali Munshi Bari Foundation. | `PHP`, `MySQL`, `HTML/CSS` |
 
 ---
 
